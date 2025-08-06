@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Salut ! Je suis Yakub Önal
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&width=500&lines=Développeur+Full+Stack+en+Alternance;PHP+%7C+Laravel+%7C+JavaScript;Flutter+%7C+C/C%2B%2B+%7C+Python;Champion+DCS+IT+GAMES+2024;Passionné+de+Cybersécurité" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&width=500&lines=D%C3%A9veloppeur+Full+Stack+en+Alternance;PHP+%7C+Laravel+%7C+JavaScript;Flutter+%7C+C%2FC%2B%2B+%7C+Python;Champion+DCS+IT+GAMES+2024;Passionn%C3%A9+de+Cybers%C3%A9curit%C3%A9" alt="Typing SVG" />
 </div>
 
 ## 🚀 À propos de moi
@@ -91,14 +91,13 @@ const yakub = {
 - 👥 **Travail d'équipe** : Communication fluide et collaboration active
 - 🐛 **Debugging** : Patience et méthodologie dans la résolution de bugs
 
-
 ## 📫 Me contacter
 
 <div align="center">
   
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yakub.onal10@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yakubonal)
-[![Phone](https://img.shields.io/badge/-Téléphone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+33766277630)
+[![Téléphone](https://img.shields.io/badge/-07%2066%2027%2076%2030-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+33766277630)
 
 </div>
 
@@ -111,3 +110,5 @@ const yakub = {
 *"Le code, c'est de la poésie que seuls les ordinateurs peuvent comprendre... et parfois même eux ont du mal !"* 😄
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yakubonal&color=blueviolet&style=for-the-badge)
+
+</div>
