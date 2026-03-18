@@ -35,6 +35,7 @@ Je crée des **sites web modernes, rapides et optimisés SEO** pour les entrepri
 
   [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yakub.onal10@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yakub-onal)
+  [![Malt](https://img.shields.io/badge/-Malt-FC5757?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.fr/profile/yakubonal)
 
   ⭐ N'hésitez pas à visiter mon portfolio pour voir mes projets.
 </div>
